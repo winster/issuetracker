@@ -7,6 +7,10 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+### How to access the endpoints
+
+* http://localhost:8080/v3/api-docs
+
 ### Tech stack
 
 * Spring Boot + Java8
@@ -14,6 +18,7 @@ mvn spring-boot:run
 * Spring JPA
 * Slf4J
 * Jupiter
+* OpenAPI
 
 ### Areas of improvement
 
